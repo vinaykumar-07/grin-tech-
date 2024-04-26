@@ -1,5 +1,5 @@
 
-import 'package:grin_tech/networkcall_method.dart';
+import 'package:grin_tech/view_model/networkcall_method.dart';
 import 'package:http/http.dart';
 
 class ApiCall {

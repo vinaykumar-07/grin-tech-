@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:grin_tech/methods.dart';
-import 'package:grin_tech/model.dart'; 
+import 'package:grin_tech/view_model/methods.dart';
+import 'package:grin_tech/model/model.dart'; 
 
 class Page2 extends StatefulWidget {
   const Page2({Key? key}) : super(key: key);

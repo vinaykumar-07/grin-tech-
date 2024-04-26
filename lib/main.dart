@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:grin_tech/home_page.dart';
+import 'package:grin_tech/view/home_page.dart';
 
 void main() {
   runApp(const MyApp());

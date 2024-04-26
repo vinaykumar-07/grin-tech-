@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:grin_tech/page_1.dart';
-import 'package:grin_tech/page_2.dart';
-import 'package:grin_tech/page_3.dart';
+import 'package:grin_tech/view/page_1.dart';
+import 'package:grin_tech/view/page_2.dart';
+import 'package:grin_tech/view/page_3.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
