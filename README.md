@@ -1,5 +1,6 @@
 # grin_tech
 [Download apk](https://drive.google.com/file/d/1AC-fwTSfHCVStNZ7A-EeIRvY-z1ohE_0/view?usp=drive_link)
+
 A new Flutter project.
 
 ## Getting Started
@@ -25,10 +26,13 @@ This project is a starting point for a Flutter application.
 5. **Run the Application:**
    - For Windows/Linux: Use the shortcut `CTRL+F5` to run the application without debugging.
    - For macOS: Use the shortcut `CMD+F5` to run the application without debugging.
+
 ## App Features
-
-
-
+* The application uses MVVM architecture pattern.
+* The app contains three pages, with each page displaying a list, which is implemented using the provided api.
+* The list uses a pagination type list with 5 records per page with the help of response provided by the api.
+* Also, a progress indicator is shown while loading a new page.
+* In addition to it, a  pull to refresh is implemented.
 
 ## Third-Party Libraries Used
 * flutter lancher Icon
